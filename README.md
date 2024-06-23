@@ -24,6 +24,6 @@ Beyond Chance -  Spin Your Destiny with Python
   This Python code simulates a slot machine for educational and entertainment purposes only. It does not involve real money gambling or any opportunity to win real prizes.
   By providing this code, I do not promote or endorse real money gambling.
 
-  It's designed to teach programming concepts like random number generation, probability calculations, and user input handling.
+  It's designed to learn programming concepts like random number generation, probability calculations, and user input handling.
   the purpose is to learn and understand the mechanics of a slot machine through code.
 
